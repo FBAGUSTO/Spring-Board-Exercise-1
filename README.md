@@ -1,5 +1,5 @@
 # Spring-Board-Exercise-1
-This is Spring Board Data Wrangling Exercise 1 this involves basic data manipulation requiring the following  
+This is Spring Board Data Wrangling Exercise 1. This exercise involves basic data manipulation requiring the following  
 
 0: Load the data in RStudio
 
